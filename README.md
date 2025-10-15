@@ -132,7 +132,7 @@ This allows a simple login before using the app.
 /Users/user/Documents/GitHub/Heart-Disease-Risk---Streamlit-App/heartdataset.csv
 ```
 
-You can change this in `train_model.py` under:
+You can change this in `train_model.ipynb` under:
 
 ```python
 DATA_PATH = "/Users/user/Documents/GitHub/Heart-Disease-Risk---Streamlit-App/heartdataset.csv"
