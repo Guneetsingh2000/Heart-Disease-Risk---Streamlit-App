@@ -146,42 +146,7 @@ export HEART_CSV_PATH="/mount/path/to/heartdataset.csv"
 
 ---
 
-## ☁️ Deploy to Streamlit Cloud
 
-1. Push your code to **GitHub**.
-2. Go to [https://share.streamlit.io](https://share.streamlit.io)
-3. Select your repository and branch.
-4. Set **`app.py`** as the entry point.
-5. Add your `.streamlit/secrets.toml` via Streamlit Cloud settings.
-6. (Optional) Include `heartdataset.csv` in your repo.
-
-After deployment, add the live link here:
-
-```
-https://<your-streamlit-app>.streamlit.app/
-```
-
----
-
-## 🧪 Demo Checklist (For Presentation)
-
-* [x] Show **login authentication**
-* [x] Demonstrate **single prediction** and **batch upload**
-* [x] Show **feature bar chart** on “Model Card” tab
-* [x] Mention the **5 Streamlit components** and their categories
-* [x] Show deployed app link and working UI
-
----
-
-## 📄 Submission Requirements
-
-* **GitHub Repo Link** (with code + README)
-* **Deployed Streamlit App Link**
-* **In-person Demo** on **15 Oct**
-
----
-
-## 👏 Credits
 
 Built by **Guneet Singh** for Durham College’s **HBAI Program Streamlit ML Deployment Assignment (2025)**.
 
